@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": [
+      { "text": "Random Gravity\n", "color": "dark_red", "bold": true },
+      { "text": "Gravity direction changes every 5 minutes", "color": "gray", "bold": false }
+    ],
+    "min_format": 101,
+    "max_format": 101
+  }
+}

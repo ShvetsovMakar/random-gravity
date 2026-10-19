@@ -1,0 +1,10 @@
+execute if score #timer gravity_timer matches 5800 run title @a title {"text":"10","color":"red","bold":true}
+execute if score #timer gravity_timer matches 5820 run title @a title {"text":"9","color":"red","bold":true}
+execute if score #timer gravity_timer matches 5840 run title @a title {"text":"8","color":"red","bold":true}
+execute if score #timer gravity_timer matches 5860 run title @a title {"text":"7","color":"red","bold":true}
+execute if score #timer gravity_timer matches 5880 run title @a title {"text":"6","color":"red","bold":true}
+execute if score #timer gravity_timer matches 5900 run title @a title {"text":"5","color":"gold","bold":true}
+execute if score #timer gravity_timer matches 5920 run title @a title {"text":"4","color":"gold","bold":true}
+execute if score #timer gravity_timer matches 5940 run title @a title {"text":"3","color":"gold","bold":true}
+execute if score #timer gravity_timer matches 5960 run title @a title {"text":"2","color":"gold","bold":true}
+execute if score #timer gravity_timer matches 5980 run title @a title {"text":"1","color":"gold","bold":true}
